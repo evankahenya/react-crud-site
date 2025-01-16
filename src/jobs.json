@@ -1,0 +1,102 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior Mobile Application Developer",
+      "type": "Full-Time",
+      "location": "Nairobi",
+      "description": "We are seeking a talented Mobile App Developer to join our team in Nairobi. The ideal candidate will have strong skills in Flutter or React Native, with experience in building cross-platform mobile applications.",
+      "salary": "KES 1,500,000 - KES 2,000,000 per year",
+      "company": {
+        "name": "NewTek Solutions Kenya",
+        "description": "NewTek Solutions Kenya specializes in mobile and web development services, delivering innovative solutions to our clients while fostering a collaborative and supportive work environment.",
+        "contactEmail": "contact@teksolutions.co.ke",
+        "contactPhone": "+254-712-345678"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Digital Marketing Specialist",
+      "type": "Full-Time",
+      "location": "Mombasa",
+      "description": "We are hiring a Digital Marketing Specialist to help us design and execute marketing campaigns. Experience in SEO, content creation, and social media management is required.",
+      "salary": "KES 800,000 - KES 1,200,000 per year",
+      "company": {
+        "name": "Veneer Solutions Africa",
+        "description": "Veneer Solutions Africa is a digital marketing agency that delivers impactful marketing strategies to help businesses grow.",
+        "contactEmail": "contact@veneersolutions.africa",
+        "contactPhone": "+254-722-334455"
+      }
+    },
+    {
+      "id": "3",
+      "title": "Backend Developer (Node.js)",
+      "type": "Full-Time",
+      "location": "Kisumu",
+      "description": "We are looking for a Backend Developer skilled in Node.js and MongoDB. Join our team to develop and optimize server-side logic for innovative applications.",
+      "salary": "KES 1,000,000 - KES 1,800,000 per year",
+      "company": {
+        "name": "Dolor Cloud Kenya",
+        "description": "Dolor Cloud Kenya provides cutting-edge cloud-based solutions for SMEs and enterprise businesses across East Africa.",
+        "contactEmail": "contact@dolorcloud.co.ke",
+        "contactPhone": "+254-733-445566"
+      }
+    },
+    {
+      "id": "4",
+      "title": "Part-Time Graphic Designer",
+      "type": "Part-Time",
+      "description": "Join our creative team as a Graphic Designer based in Nakuru. We are looking for a motivated individual with skills in Adobe Photoshop, Illustrator, or Figma. Flexible hours are available.",
+      "location": "Nakuru",
+      "salary": "KES 400,000 - KES 600,000 per year",
+      "company": {
+        "name": "Alpha Elite Design Studio",
+        "description": "Alpha Elite Design Studio is a dynamic creative agency that specializes in branding, UI/UX design, and multimedia content creation.",
+        "contactEmail": "contact@alphaelite.co.ke",
+        "contactPhone": "+254-745-556677"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack Developer (Python/Django)",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full Stack Developer skilled in Python and Django to join our Nairobi office. You will build scalable and secure web applications that impact thousands of users.",
+      "location": "Nairobi",
+      "salary": "KES 1,800,000 - KES 2,500,000 per year",
+      "company": {
+        "name": "Browning Technologies Kenya",
+        "description": "Browning Technologies Kenya focuses on delivering innovative tech solutions for e-commerce and financial services in Africa.",
+        "contactEmail": "contact@browningtech.co.ke",
+        "contactPhone": "+254-751-112233"
+      }
+    },
+    {
+      "id": "6",
+      "title": "UI/UX Designer",
+      "type": "Full-Time",
+      "description": "Join our team as a UI/UX Designer in Eldoret. We are looking for a creative individual with experience in creating wireframes, prototypes, and engaging user interfaces.",
+      "location": "Eldoret",
+      "salary": "KES 1,200,000 - KES 1,800,000 per year",
+      "company": {
+        "name": "Port Solutions Kenya",
+        "description": "Port Solutions Kenya specializes in software development and user-centric digital experiences for businesses across East Africa.",
+        "contactEmail": "contact@portsolutions.co.ke",
+        "contactPhone": "+254-700-223344"
+      }
+    },
+    {
+      "id": "e2a5",
+      "title": "Software Tester",
+      "type": "Full-Time",
+      "location": "Nairobi",
+      "description": "Just testing",
+      "salary": "Under 7M KES",
+      "company": {
+        "name": "Sybyl Kenya Limited",
+        "description": "kadjfbjkdjafabf",
+        "contactEmail": "evankahenya@gmail.com",
+        "contactPhone": "0712308379"
+      }
+    }
+  ]
+}
